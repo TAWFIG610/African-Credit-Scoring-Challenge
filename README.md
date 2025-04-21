@@ -1,5 +1,11 @@
 # African Credit Scoring Challenge
 
+🚀 I’m excited to share that I recently participated in the African Credit Scoring Challenge on Zindi, finishing 379 out of 1,024 with a top accuracy score of 70%! 📊💡
+
+This challenge was a great opportunity to apply my knowledge in loan default prediction using financial data, leveraging deep learning models to tackle real-world problems. 💻🔍
+
+The experience strengthened my data science, machine learning, and deep learning skills, and I’m looking forward to more exciting challenges! 💪🚀
+
 This project aims to predict loan defaults based on financial and economic data using deep learning models.
 
 ## Setup Instructions
